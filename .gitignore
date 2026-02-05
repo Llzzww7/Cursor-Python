@@ -2,6 +2,9 @@
 venv/
 .env/
 .venv/
+#para ignorar cualquier carpeta que contenga venv:
+*venv*/ 
+
 
 #Python 
 __pycache__/
