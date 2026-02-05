@@ -5,3 +5,8 @@
 - Implementación y despliegue.
 - Ejemplos integradores (web, datos, automatización y más).
 - Conclusión final del curso.
+
+venv:
+. bin/ -> ejecutables(python, pip)
+. lib/ -> librerías instaladas
+. pyvenv.cfg -> configuración del entorno
