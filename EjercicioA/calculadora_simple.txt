@@ -1,0 +1,12 @@
+Enunciat:
+Crea un programa calculadora.py que:
+    Pide al usuario una operación (suma, resta, multiplicación, división) y dos números.
+    Ejecute la operación y muestre el resultado.
+    Debe repetirse hasta que el usuario escriba "salir" como operación.
+Usa Cursor para:
+    Sugerirte cómo estructurar el loop principal.
+    Generar la lógica de cada operación (quizá usar un diccionario de funciones o if/elif).
+    Manejar división por cero (puedes pedirle a la IA cómo).
+    Probar distintos inputs.
+Comparación: ¿Cómo te habría ido haciendo esto en PyCharm o VS Code sin IA? Seguramente hubieras tardado un poco más buscando cómo hacer el loop continuo. Con Cursor, puedes
+simplemente preguntarle "¿Cómo repito un ciclo hasta que el usuario ponga 'salir'?" y te guiará (posiblemente con while True y break, o un do-while simulation).

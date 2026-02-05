@@ -1,0 +1,6 @@
+Las menciones @ en el chat, permiten incorporar referencias específicas en tus solucitudes a la IA.
+@ para archivos o símbolos del código.
+@Codebase => para preguntas globales.
+@Web - Búsqueda en la web.
+@Docs - Documentación personalizada. (agregar funetes de documentación para que la IA las use)
+@Imagen - Soporte de imágenes. (En ptyhon no creo que lo use, pero es útil saberlo)

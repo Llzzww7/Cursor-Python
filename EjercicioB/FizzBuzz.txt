@@ -1,0 +1,6 @@
+Enunciat:
+FizzBuzz es un clásico:
+Recorrer números del 1 al 50. Si el número es múltiplo de 3, imprimir "Fizz"; de 5, imprimir "Buzz"; de ambos, "FizzBuzz"; si no, el número.
+Hazlo en Cursor. Intenta escribir solo el esqueleto del loop for i in range(1, 51): y deja que la IA sugiera el resto. Es probable que Cursor conozca este popular problema y te autocomplete gran parte.
+Verifica que la salida es correcta. Si hay un error (por ejemplo, la IA puede equivocarse en algún detalle), corrígelo manualmente o dile a la IA "Corrige el código según las reglas especificadas".
+

@@ -1,0 +1,10 @@
+Podria iniciar venv després de crear la carpeta del projecte però no ho faré ja que és opcional.
+
+Per llegir lo que introdueix usuari a python s'usa input().
+Per llegit un archivo de text s'usa: 
+    with open("nomarxiu.txt", "r",  encoding="utf-8") as arxiu:
+        contingut = archiu.read()
+    print(contingut)
+
+Resumiendo: con re.findall(r"\w+", contingut.lower()) le dices a Python:
+“Busca en el texto (ya en minúsculas) todas las secuencias de caracteres de palabra, y devuélvemelas como una lista”.
